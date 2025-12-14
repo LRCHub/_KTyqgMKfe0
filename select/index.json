@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "drop pop candy",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-14T11:51:16.844271Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "drop pop candy",
+      "artist": "れをる",
+      "has_synced": true,
+      "path": "select/01_drop_pop_candy_れをる.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "drop pop candy",
+      "artist": "れをる;ギガP",
+      "has_synced": true,
+      "path": "select/02_drop_pop_candy_れをる;ギガP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drop Pop Candy",
+      "artist": "Reol, Giga",
+      "has_synced": true,
+      "path": "select/03_Drop_Pop_Candy_Reol,_Giga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "drop pop candy (feat. 小豆沢こはね, 白石杏, 鏡音リン & 巡音ルカ)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/04_drop_pop_candy_(feat._小豆沢こはね,_白石杏,_鏡音リン_&_巡音ルカ)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "drop pop candy",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/05_drop_pop_candy_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drop Pop Candy",
+      "artist": "Jubyphonic",
+      "has_synced": true,
+      "path": "select/06_Drop_Pop_Candy_Jubyphonic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "drop pop candy",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/07_drop_pop_candy_Reol.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "drop pop candy (feat. ギガ)",
+      "artist": "Reol feat. Giga",
+      "has_synced": true,
+      "path": "select/08_drop_pop_candy_(feat._ギガ)_Reol_feat._Giga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "drop pop candy (feat. GigaP)",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/09_drop_pop_candy_(feat._GigaP)_Reol.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drop Pop Candy",
+      "artist": "Will Stetson feat. Nia Moni",
+      "has_synced": true,
+      "path": "select/10_Drop_Pop_Candy_Will_Stetson_feat._Nia_Moni.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drop Pop Candy",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/11_Drop_Pop_Candy_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "drop pop candy",
+      "artist": "GigaP x Reol",
+      "has_synced": true,
+      "path": "select/12_drop_pop_candy_GigaP_x_Reol.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "drop pop candy (feat. ギガ)",
+      "artist": "Reol/Giga",
+      "has_synced": true,
+      "path": "select/13_drop_pop_candy_(feat._ギガ)_Reol_Giga.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drop Pop Candy Feat. Giga",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/14_Drop_Pop_Candy_Feat._Giga_Reol.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drop Pop Candy (feat. Nia Moni)",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/15_Drop_Pop_Candy_(feat._Nia_Moni)_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "drop pop candy",
+      "artist": "REOL feat. ギガ",
+      "has_synced": true,
+      "path": "select/16_drop_pop_candy_REOL_feat._ギガ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "drop pop candy",
+      "artist": "ギガP feat. Reol",
+      "has_synced": true,
+      "path": "select/17_drop_pop_candy_ギガP_feat._Reol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "drop pop candy",
+      "artist": "Vivid Bad Squad",
+      "has_synced": false,
+      "path": "select/pl_01_drop_pop_candy_Vivid_Bad_Squad.txt"
+    }
+  ]
+}
